@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8LfsxplZddSoXvRwK4BqPwhPHt/1S/qNzfEWyrFNkib1JoPO0LjbkA54/6EGOvgmBWE/1voNMGp++a0zIXNfRg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Latif Ahmed\\Desktop\\Smart_Lock1\\Smart_Lock\\Smart_Lock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Latif Ahmed\\.nuget\\packages\\mqttnet\\4.3.3.952\\mqttnet.4.3.3.952.nupkg.sha512"
+  ],
+  "logs": []
+}
